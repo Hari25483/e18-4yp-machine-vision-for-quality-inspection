@@ -30,14 +30,6 @@ This project pioneers a machine vision solution for automated manufacturing qual
 3. [Department of computer engineering](http://ce.pdn.ac.lk)
 
 
-## Publications
-1. [Semester 7 report](https://cepdnaclk.github.io/e15-4yp-minimal-template)
-2. [Semester 7 sldies](https://cepdnaclk.github.io/e15-4yp-minimal-template)
-3. [Semester 8 report](https://cepdnaclk.github.io/e15-4yp-minimal-template)
-4. [Semester 8 slides](https://cepdnaclk.github.io/e15-4yp-minimal-template)
-5. Author1, Author2 and Author2 "Research paper title" in Conference name 2021. [Download PDF ](https://cepdnaclk.github.io/e15-4yp-minimal-template)
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/cepdnaclk/e18-4yp-machine-vision-for-quality-inspection?style=for-the-badge
